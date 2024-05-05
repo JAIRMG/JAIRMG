@@ -4,7 +4,6 @@ Hi, I'm Jair, a software engineer born and raised in Mexico, I spent most of my 
 
 When I am not at the computer I enjoy reading 📖
 
-- 🔭 I’m currently working at Flixbus
 - 🌱 I’m currently learning SwiftUI
 - 👯 I’m looking to collaborate on iOS projects
 
